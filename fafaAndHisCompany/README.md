@@ -6,8 +6,11 @@ http://codeforces.com/contest/935/problem/A
 ## A. Fafa and his Company
 
 time limit per test: 1 second
+
 memory limit per test: 256 megabytes
+
 input: standard input
+
 output: standard output
 Fafa owns a company that works on huge projects. There are n employees in Fafa's company. Whenever the company has a new project to start working on, Fafa has to divide the tasks of this project among all the employees.
 
