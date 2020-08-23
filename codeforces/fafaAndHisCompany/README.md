@@ -5,10 +5,13 @@ http://codeforces.com/contest/935/problem/A
 
 ## A. Fafa and his Company
 
-time limit per test1 second
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+time limit per test: 1 second
+
+memory limit per test: 256 megabytes
+
+input: standard input
+
+output: standard output
 Fafa owns a company that works on huge projects. There are n employees in Fafa's company. Whenever the company has a new project to start working on, Fafa has to divide the tasks of this project among all the employees.
 
 Fafa finds doing this every time is very tiring for him. So, he decided to choose the best l employees in his company as team leaders. Whenever there is a new project, Fafa will divide the tasks among only the team leaders and each team leader will be responsible of some positive number of employees to give them the tasks. To make this process fair for the team leaders, each one of them should be responsible for the same number of employees. Moreover, every employee, who is not a team leader, has to be under the responsibility of exactly one team leader, and no team leader is responsible for another team leader.
