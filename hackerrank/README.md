@@ -5,3 +5,6 @@ once I started to solve hard questions, this folder structure can be changed.
 ```
 hackerrank.com
 ```
+
+Changed readme.md
+will update after this month
