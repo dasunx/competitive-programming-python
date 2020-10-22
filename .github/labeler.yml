@@ -1,0 +1,8 @@
+basic:
+    - ./*
+
+hackerrank:
+    - hackerrank/**/*
+
+codeforces:
+    - codeforces/**/*
