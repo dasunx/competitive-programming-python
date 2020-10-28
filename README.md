@@ -1,5 +1,5 @@
 # First steps of Competitive programming
 
-## Codeforces.com, hackerrank.com contests and solutions
+## Solutions for hackerrank and codeforeces competitions.
 
 ###### Dasun Ekanayake
