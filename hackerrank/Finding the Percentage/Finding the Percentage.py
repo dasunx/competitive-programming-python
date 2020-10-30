@@ -1,14 +1,13 @@
-
-t = int(raw_input())
-
-stus = {}
-
-for i in range(0, t):
-    name, math, physic, chemistry = raw_input().split(" ")
-    stus[name] = (float(math) + float(physic) + float(chemistry)) / 3
-
-name = raw_input()
-if name in stus:
-    print("%.2f" % stus[name])
-else:
-    print "No"
+if __name__ == '__main__':
+    n = int(input())
+    student_marks = {}
+    for _ in range(n):
+        name, *line = input().split()
+        scores = list(map(float, line))
+        student_marks[name] = scores
+    query_name = input()
+    l = list(student_marks[query_name])
+    no = len(l)
+    s = sum(l)
+    ss = s/no
+    print('%.2f' % ss)
